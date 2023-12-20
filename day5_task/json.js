@@ -1,14 +1,14 @@
 //Create your own resume data in JSON format
 let myResume = {
     "basics": {
-        "name": "RAJARAJAN T",
-        "email": "rajarat6@gamil.com",
-        "phone": 9578741769,
-        "degree": "B.E",
+        "name": "RANJITHKUMAR K",
+        "email": "ranjithk@gamil.com",
+        "phone": 7871267800,
+        "degree": "BCA",
         "location": {
-            "address": "15/16 Sainath Enclave ShenoyNagar",
-            "postalCode": 600030,
-            "city": "Chennai",
+            "address": "22, Renganayakipuram Rd, Renganayaki Puram",
+            "postalCode": 639001,
+            "city": "Karur",
             "state": "Tamilnadu",
             "country": "India"
         },
