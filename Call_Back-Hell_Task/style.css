@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Pacifico&family=Poppins:wght@200;400;500&family=Raleway&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(174, 209, 238);
+    background: radial-gradient(circle, rgb(174, 209, 238) 0%, rgb(148, 233, 212) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ca03fc;
+    font-weight: 900;
+    font-family: 'Pacifico', cursive;
+}
+
+
+/* .container{
+    
+    align-items: center;
+    margin: auto;
+    height: 500px;
+    width: 300px;
+    color: rgb(130, 5, 248);
+    background-color: #f5f798;
+    border: 2px solid green;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+} */
